@@ -1,0 +1,20 @@
+body{
+    background-color:#aaa;
+    color:rgb(66, 33, 33);
+    height: 100%; width: 100%;
+    text-align: center;
+    background: linear-gradient(to right,#ff0000, #ffff00);
+}
+
+h1{
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 0.3em;
+}
+h1:hover{
+    color: black; text-decoration: none;
+}
+h3{
+    margin-top: 5em; color:black;
+}
